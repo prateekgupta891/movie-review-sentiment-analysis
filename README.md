@@ -7,3 +7,6 @@ This code is in reference to the tutorial from [Natural Language Processing by S
 
 # Output 
 ![image](https://user-images.githubusercontent.com/32310164/57781690-4e81f080-7748-11e9-9e9d-af28a65a2833.png)
+
+Note: No need for any dataset the data is imported from the nltk corpus.
+For installing the nltk module i highly recommend you to look the video tutorial by sentdex.
